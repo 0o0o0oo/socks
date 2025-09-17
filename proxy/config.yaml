@@ -1,5 +1,0 @@
-proxies: []
-proxy-groups:
-- name: 国家列表
-  proxies: []
-  type: select
